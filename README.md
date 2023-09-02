@@ -38,9 +38,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadgdz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadgdz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="100" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=mohammadgdz&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadgdz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mohammadgdz&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
 </div>
 
 ###
