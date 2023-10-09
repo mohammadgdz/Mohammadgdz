@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">You can see some of my real or practice projects in my repositories</p>
+
 
 ###
 
